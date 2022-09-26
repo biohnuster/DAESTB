@@ -21,8 +21,7 @@ DAESTB is a effective method to predict associations between small molecule and 
 * DAESTB.py: the core model proposed in the paper.
 
 ### Contact
-* If you have any problem or find mistakes, please feel free to contact us: plpeng@hnu.edu.cn
-
+* If you have any problem or find mistakes, please feel free to contact me: plpeng@hnu.edu.cn and ty09060418@163.com
 
 
 
